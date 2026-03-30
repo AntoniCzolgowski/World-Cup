@@ -27,6 +27,8 @@ share/python-wheels/
 MANIFEST
 !apps/web/src/lib/
 !apps/web/src/lib/**
+!apps/fan/src/lib/
+!apps/fan/src/lib/**
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
