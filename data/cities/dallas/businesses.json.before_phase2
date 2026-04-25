@@ -13,23 +13,7 @@
       "capacity_estimate": 4200,
       "hours": "10:00-02:00",
       "source": "seeded_real",
-      "signature_item": "watch-party packages",
-      "address": "1650 E Randol Mill Rd, Arlington, TX 76011, USA",
-      "phone": "+1 817-852-6688",
-      "website": "https://texas-live.com/",
-      "review_count": 12301,
-      "google_types": [
-        "sports_bar",
-        "bar",
-        "live_music_venue",
-        "event_venue",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "info@texas-live.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 81
+      "signature_item": "watch-party packages"
     },
     {
       "id": "biz_live_loews",
@@ -44,24 +28,7 @@
       "capacity_estimate": 950,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "lobby cocktail program",
-      "address": "1600 E Randol Mill Rd, Arlington, TX 76011, USA",
-      "phone": "+1 682-277-4911",
-      "website": "https://www.loewshotels.com/live-by-loews-arlington-texas",
-      "review_count": 2326,
-      "google_types": [
-        "hotel",
-        "wedding_venue",
-        "lodging",
-        "event_venue",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "loewshotelsreservations@loewshotels.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 81
+      "signature_item": "lobby cocktail program"
     },
     {
       "id": "biz_loews_arlington",
@@ -76,25 +43,7 @@
       "capacity_estimate": 1280,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "late checkout demand",
-      "address": "888 Nolan Ryan Expy, Arlington, TX 76011, USA",
-      "phone": "+1 682-318-2810",
-      "website": "https://www.loewshotels.com/arlington-hotel",
-      "review_count": 1316,
-      "google_types": [
-        "hotel",
-        "convention_center",
-        "wedding_venue",
-        "event_venue",
-        "service",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "loewshotelsreservations@loewshotels.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 81
+      "signature_item": "late checkout demand"
     },
     {
       "id": "biz_tipsy_oak",
@@ -109,22 +58,7 @@
       "capacity_estimate": 620,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "pre-match patio crowd",
-      "address": "301 E Front St, Arlington, TX 76011, USA",
-      "phone": "+1 817-962-0304",
-      "website": "https://www.thetipsyoak.com/",
-      "review_count": 2640,
-      "google_types": [
-        "restaurant",
-        "bar",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "info@thetipsyoak.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 78
+      "signature_item": "pre-match patio crowd"
     },
     {
       "id": "biz_pbr_texas",
@@ -139,24 +73,7 @@
       "capacity_estimate": 1180,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "high-volume game-day beer hall",
-      "address": "1650 E Randol Mill Rd #150, Arlington, TX 76011, USA",
-      "phone": "+1 817-769-1749",
-      "website": "http://texas-live.com/eat-and-drink/pbr-texas",
-      "review_count": 372,
-      "google_types": [
-        "night_club",
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "events@texas-live.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "txlive"
-      ],
-      "email_confidence": 79
+      "signature_item": "high-volume game-day beer hall"
     },
     {
       "id": "biz_troys",
@@ -171,25 +88,7 @@
       "capacity_estimate": 760,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "large-screen game lounge",
-      "address": "1650 E Randol Mill Rd #100, Arlington, TX 76011, USA",
-      "phone": "+1 817-769-1551",
-      "website": "https://texas-live.com/eat-and-drink/troys",
-      "review_count": 491,
-      "google_types": [
-        "live_music_venue",
-        "bar",
-        "event_venue",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "events@texas-live.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "txlive"
-      ],
-      "email_confidence": 79
+      "signature_item": "large-screen game lounge"
     },
     {
       "id": "biz_miller_tavern",
@@ -204,23 +103,7 @@
       "capacity_estimate": 960,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "fast-pour outdoor beer garden",
-      "address": "1650 E Randol Mill Rd #110, Arlington, TX 76011, USA",
-      "phone": "+1 817-769-1552",
-      "website": "https://texas-live.com/eat-and-drink/miller-tavern-and-beer-garden",
-      "review_count": 159,
-      "google_types": [
-        "beer_garden",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "events@texas-live.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 79
+      "signature_item": "fast-pour outdoor beer garden"
     },
     {
       "id": "biz_sheraton_arlington",
@@ -235,22 +118,7 @@
       "capacity_estimate": 910,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "stadium shuttle arrivals",
-      "address": "2451 E Randol Mill Rd, Arlington, TX 76011, USA",
-      "phone": "+1 817-640-5454",
-      "website": "https://www.marriott.com/en-us/hotels/dfwfa-four-points-dallas-arlington-entertainment-district/overview/?cid=NAT_google_hotel_url",
-      "review_count": 922,
-      "google_types": [
-        "hotel",
-        "lodging",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "rosa.azuara@marriott.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "signature_item": "stadium shuttle arrivals"
     },
     {
       "id": "biz_hilton_arlington",
@@ -265,21 +133,7 @@
       "capacity_estimate": 840,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "late-night group check-ins",
-      "address": "2401 E Lamar Blvd, Arlington, TX 76006, USA",
-      "phone": "+1 817-640-3322",
-      "website": "https://www.hilton.com/en/hotels/arlahhf-hilton-arlington/?SEO_id=GMB-AMER-HH-ARLAHHF&y_source=1_MTIyMDg0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "review_count": 2178,
-      "google_types": [
-        "hotel",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "williams.sharona@hilton.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "signature_item": "late-night group check-ins"
     },
     {
       "id": "biz_happiest_hour",
@@ -294,23 +148,7 @@
       "capacity_estimate": 1800,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "rooftop overflow",
-      "address": "2616 Olive St, Dallas, TX 75201, USA",
-      "phone": "+1 972-528-0067",
-      "website": "https://www.happiesthourdallas.com/",
-      "review_count": 5103,
-      "google_types": [
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "hello@happiesthourdallas.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "HappiestHourDAL"
-      ],
-      "email_confidence": 99
+      "signature_item": "rooftop overflow"
     },
     {
       "id": "biz_statler",
@@ -325,21 +163,7 @@
       "capacity_estimate": 860,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "late-night lounge traffic",
-      "address": "1914 Commerce St, Dallas, TX 75201, USA",
-      "phone": "+1 214-459-3930",
-      "website": "https://www.hilton.com/en/hotels/dfwstqq-the-statler-dallas/?SEO_id=GMB-AMER-QQ-DFWSTQQ&y_source=1_ODMxODAxNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "review_count": 3013,
-      "google_types": [
-        "hotel",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "williams.sharona@hilton.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "signature_item": "late-night lounge traffic"
     },
     {
       "id": "biz_sheraton_dallas",
@@ -354,24 +178,7 @@
       "capacity_estimate": 1420,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "conference lobby spillover",
-      "address": "400 Olive St, Dallas, TX 75201, USA",
-      "phone": "+1 214-922-8000",
-      "website": "https://www.marriott.com/en-us/hotels/daldh-sheraton-dallas-hotel/overview/?cid=NAT_google_hotel_url",
-      "review_count": 6746,
-      "google_types": [
-        "hotel",
-        "wedding_venue",
-        "event_venue",
-        "service",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "rosa.azuara@marriott.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "signature_item": "conference lobby spillover"
     },
     {
       "id": "biz_omni_dallas",
@@ -386,21 +193,7 @@
       "capacity_estimate": 1750,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "major lobby and valet compression",
-      "address": "555 S Lamar St, Dallas, TX 75202, USA",
-      "phone": "+1 214-744-6664",
-      "website": "https://www.omnihotels.com/hotels/dallas?utm_source=gmblisting&utm_medium=organic",
-      "review_count": 9889,
-      "google_types": [
-        "hotel",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "sonya.cook@omnihotels.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "signature_item": "major lobby and valet compression"
     },
     {
       "id": "biz_joule",
@@ -415,21 +208,7 @@
       "capacity_estimate": 520,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "premium cocktail traffic",
-      "address": "1530 Main St STE 100, Dallas, TX 75201, USA",
-      "phone": "+1 214-748-1300",
-      "website": "https://www.thejouledallas.com/",
-      "review_count": 1802,
-      "google_types": [
-        "hotel",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "reservations@thejouledallas.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "signature_item": "premium cocktail traffic"
     },
     {
       "id": "biz_exchange_hall",
@@ -444,24 +223,7 @@
       "capacity_estimate": 1500,
       "hours": "10:00-02:00",
       "source": "seeded_real",
-      "signature_item": "food hall watch-party spillover",
-      "address": "211 S Akard St, Dallas, TX 75202, USA",
-      "phone": "+1 214-464-8101",
-      "website": "https://theexchangehall.com/",
-      "review_count": 1379,
-      "google_types": [
-        "american_restaurant",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "exchangehall"
-      ]
+      "signature_item": "food hall watch-party spillover"
     },
     {
       "id": "biz_parliament",
@@ -476,23 +238,7 @@
       "capacity_estimate": 280,
       "hours": "16:00-02:00",
       "source": "seeded_real",
-      "signature_item": "premium fan cocktails",
-      "address": "2418 Allen St, Dallas, TX 75204, USA",
-      "website": "http://parliamentdallas.com/",
-      "review_count": 1336,
-      "google_types": [
-        "cocktail_bar",
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "2008",
-        "parliamentbar"
-      ]
+      "signature_item": "premium fan cocktails"
     },
     {
       "id": "biz_rustic",
@@ -507,22 +253,7 @@
       "capacity_estimate": 1380,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "large patio live-music crowd",
-      "address": "3656 Howell St, Dallas, TX 75204, USA",
-      "phone": "+1 214-730-0596",
-      "website": "https://therustic.com/",
-      "review_count": 6132,
-      "google_types": [
-        "american_restaurant",
-        "restaurant",
-        "point_of_interest",
-        "food",
-        "establishment"
-      ],
-      "email": "events@therustic.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 95
+      "signature_item": "large patio live-music crowd"
     },
     {
       "id": "biz_katy_trail",
@@ -537,25 +268,7 @@
       "capacity_estimate": 1220,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "high-capacity beer garden",
-      "address": "3127 Routh St, Dallas, TX 75201, USA",
-      "phone": "+1 214-468-0600",
-      "website": "http://katyicehouse.com/",
-      "review_count": 3796,
-      "google_types": [
-        "restaurant",
-        "bar",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "r.menke@katyicehouse.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "Katyicehouse"
-      ],
-      "email_confidence": 98
+      "signature_item": "high-capacity beer garden"
     },
     {
       "id": "biz_henry",
@@ -570,33 +283,7 @@
       "capacity_estimate": 540,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "upscale pre-match groups",
-      "address": "2301 N Akard St Suite 250, Dallas, TX 75201, USA",
-      "phone": "+1 972-677-9560",
-      "website": "https://www.thehenryrestaurant.com/locations/the-henry-dallas/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
-      "review_count": 3423,
-      "google_types": [
-        "american_restaurant",
-        "breakfast_restaurant",
-        "vegan_restaurant",
-        "vegetarian_restaurant",
-        "coffee_shop",
-        "brunch_restaurant",
-        "cafe",
-        "food_store",
-        "restaurant",
-        "food",
-        "store",
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "TheHenryRestaurant"
-      ]
+      "signature_item": "upscale pre-match groups"
     },
     {
       "id": "biz_hero",
@@ -611,28 +298,7 @@
       "capacity_estimate": 940,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "big-screen match hall",
-      "address": "3090 Nowitzki Way, Dallas, TX 75219, USA",
-      "phone": "+1 817-842-2419",
-      "website": "http://www.herobyhg.com/",
-      "review_count": 1745,
-      "google_types": [
-        "sports_bar",
-        "lounge_bar",
-        "video_arcade",
-        "night_club",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "herobyhg"
-      ]
+      "signature_item": "big-screen match hall"
     },
     {
       "id": "biz_bottled_blonde",
@@ -647,29 +313,7 @@
       "capacity_estimate": 1320,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "high-energy late celebration crowd",
-      "address": "505 N Good Latimer Expy, Dallas, TX 75204, USA",
-      "phone": "+1 469-250-0888",
-      "review_count": 1758,
-      "google_types": [
-        "night_club",
-        "pizza_restaurant",
-        "bar_and_grill",
-        "sports_bar",
-        "italian_restaurant",
-        "live_music_venue",
-        "event_venue",
-        "sports_club",
-        "bar",
-        "meal_takeaway",
-        "american_restaurant",
-        "restaurant",
-        "food",
-        "association_or_organization",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": ""
+      "signature_item": "high-energy late celebration crowd"
     },
     {
       "id": "biz_stirr",
@@ -684,23 +328,7 @@
       "capacity_estimate": 560,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "rooftop cocktail demand",
-      "address": "2803 Main St #110, Dallas, TX 75226, USA",
-      "phone": "+1 214-983-1222",
-      "website": "https://www.stirrrestaurants.com/",
-      "review_count": 3565,
-      "google_types": [
-        "american_restaurant",
-        "restaurant",
-        "food",
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "infostirraddison@stirrrestaurants.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 75
+      "signature_item": "rooftop cocktail demand"
     },
     {
       "id": "biz_vidorra",
@@ -715,23 +343,7 @@
       "capacity_estimate": 880,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "team-themed tequila celebrations",
-      "address": "2642 Main St, Dallas, TX 75226, USA",
-      "phone": "+1 972-215-0640",
-      "website": "https://www.vidorracocina.com/",
-      "review_count": 5487,
-      "google_types": [
-        "mexican_restaurant",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "contact@vidorracocina.com",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "signature_item": "team-themed tequila celebrations"
     },
     {
       "id": "biz_lazy_dog",
@@ -746,26 +358,7 @@
       "capacity_estimate": 520,
       "hours": "11:00-01:00",
       "source": "seeded_real",
-      "signature_item": "family crowd and late burgers",
-      "address": "241 E Interstate 20, Arlington, TX 76018, USA",
-      "phone": "+1 682-276-7300",
-      "website": "https://lazydogrestaurants.com/pages/arlington-tx",
-      "review_count": 3982,
-      "google_types": [
-        "american_restaurant",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "sswiger@lazydogrestaurants.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "LazyDogRestaurants"
-      ],
-      "email_confidence": 99
+      "signature_item": "family crowd and late burgers"
     },
     {
       "id": "biz_boomerjacks",
@@ -780,31 +373,7 @@
       "capacity_estimate": 740,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "locals-heavy recovery crowd",
-      "address": "522 Lincoln Square, Arlington, TX 76011, USA",
-      "phone": "+1 817-275-5400",
-      "website": "https://boomerjacks.com/locations/north-arlington/",
-      "review_count": 4299,
-      "google_types": [
-        "sports_bar",
-        "chicken_wings_restaurant",
-        "hamburger_restaurant",
-        "bar_and_grill",
-        "american_restaurant",
-        "restaurant",
-        "food",
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "info@boomerjacks.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "BoomerJacks",
-        "BoomerJacksNorthArlington"
-      ],
-      "email_confidence": 77
+      "signature_item": "locals-heavy recovery crowd"
     },
     {
       "id": "biz_j_gilligans",
@@ -819,27 +388,7 @@
       "capacity_estimate": 410,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "pub-style post-match overflow",
-      "address": "400 E Abram St, Arlington, TX 76010, USA",
-      "phone": "+1 817-274-8561",
-      "website": "http://www.jgilligans.com/",
-      "review_count": 3120,
-      "google_types": [
-        "sports_bar",
-        "family_restaurant",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "jgilligans",
-        "jgilligansbarandgrill"
-      ]
+      "signature_item": "pub-style post-match overflow"
     },
     {
       "id": "biz_yard_house",
@@ -854,28 +403,7 @@
       "capacity_estimate": 710,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "beer-heavy airport corridor fans",
-      "address": "320 W Las Colinas Blvd., Irving, TX 75039, USA",
-      "phone": "+1 214-496-0151",
-      "website": "https://www.yardhouse.com/locations/tx/irving/las-colinas-toyota-music-factory/8367?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:irving-tx-8367_pl:locurl_rd:1063",
-      "review_count": 3897,
-      "google_types": [
-        "sports_bar",
-        "gastropub",
-        "vegetarian_restaurant",
-        "bar_and_grill",
-        "meal_takeaway",
-        "american_restaurant",
-        "restaurant",
-        "food",
-        "bar",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "rsauceda@yardhouse.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "signature_item": "beer-heavy airport corridor fans"
     },
     {
       "id": "biz_omni_las_colinas",
@@ -890,21 +418,7 @@
       "capacity_estimate": 960,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "airport-adjacent premium arrivals",
-      "address": "221 Las Colinas Blvd E, Irving, TX 75039, USA",
-      "phone": "+1 972-556-0800",
-      "website": "https://www.omnihotels.com/hotels/dallas-las-colinas?utm_source=gmblisting&utm_medium=organic",
-      "review_count": 4069,
-      "google_types": [
-        "hotel",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "sonya.cook@omnihotels.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "signature_item": "airport-adjacent premium arrivals"
     },
     {
       "id": "biz_westin_las_colinas",
@@ -919,24 +433,7 @@
       "capacity_estimate": 920,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "late-arriving premium supporters",
-      "address": "400 W Las Colinas Blvd., Irving, TX 75039, USA",
-      "phone": "+1 972-505-2900",
-      "website": "https://www.marriott.com/en-us/hotels/daliw-the-westin-irving-convention-center-at-las-colinas/overview/?cid=NAT_google_hotel_url",
-      "review_count": 971,
-      "google_types": [
-        "hotel",
-        "wedding_venue",
-        "event_venue",
-        "lodging",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "rosa.azuara@marriott.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "signature_item": "late-arriving premium supporters"
     },
     {
       "id": "biz_bar_louie",
@@ -951,30 +448,7 @@
       "capacity_estimate": 640,
       "hours": "11:00-02:00",
       "source": "seeded_real",
-      "signature_item": "airport-corridor happy-hour spike",
-      "address": "360 W Las Colinas Blvd., Irving, TX 75039, USA",
-      "phone": "+1 469-472-1050",
-      "website": "https://www.barlouie.com/locations/us/tx/irving/music-factory?utm_source=google&utm_medium=gmb&utm_campaign=listings",
-      "review_count": 3356,
-      "google_types": [
-        "bar_and_grill",
-        "lounge_bar",
-        "pub",
-        "gastropub",
-        "cocktail_bar",
-        "sports_bar",
-        "night_club",
-        "american_restaurant",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "tgrieser@barlouie.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "signature_item": "airport-corridor happy-hour spike"
     },
     {
       "id": "biz_four_seasons_lc",
@@ -989,24 +463,7 @@
       "capacity_estimate": 1180,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "premium pre-arrival package demand",
-      "address": "4150 N MacArthur Blvd, Irving, TX 75038, USA",
-      "phone": "+1 972-717-0700",
-      "website": "https://www.ritzcarlton.com/en/hotels/dalil-the-ritz-carlton-dallas-las-colinas/overview/?cid=NAT_google_hotel_url",
-      "review_count": 2718,
-      "google_types": [
-        "hotel",
-        "lodging",
-        "point_of_interest",
-        "establishment"
-      ],
-      "email": "manuel.terra@ritzcarlton.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "TheRitzCarltonLasColinas"
-      ],
-      "email_confidence": 98
+      "signature_item": "premium pre-arrival package demand"
     },
     {
       "id": "biz_uptown_crescent",
@@ -1021,12 +478,7 @@
       "capacity_estimate": 860,
       "hours": "24/7",
       "source": "seeded_real",
-      "signature_item": "late-night supporter stayovers",
-      "address": "Crescent Ct, Dallas, TX 75201, USA",
-      "google_types": [
-        "route"
-      ],
-      "email": ""
+      "signature_item": "late-night supporter stayovers"
     },
     {
       "id": "biz_charlie_s_tavern_arlington",
@@ -1061,12 +513,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "SlicePizzaApp"
-      ]
+      "email": ""
     },
     {
       "id": "biz_black_sheep_sports_bar",
@@ -1121,14 +568,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "events@texas-live.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "txlive",
-        "sportssocialarlington"
-      ],
-      "email_confidence": 79
+      "email": ""
     },
     {
       "id": "biz_ojos_locos_sports_cantina_arlington_tx",
@@ -1163,10 +603,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@ojoslocos.com",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "email": "informacion@ojoslocos.com"
     },
     {
       "id": "biz_the_addy_sports_lounge",
@@ -1194,10 +631,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "support@theaddy.net",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "email": "support@theaddy.net"
     },
     {
       "id": "biz_boomerjack_s_grill",
@@ -1229,14 +663,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@boomerjacks.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "BoomerJacks",
-        "BoomerJacksNorthArlington"
-      ],
-      "email_confidence": 77
+      "email": ""
     },
     {
       "id": "biz_bombshells_restaurant_bar",
@@ -1264,9 +691,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_at_t_stadium_sports_bar",
@@ -1295,9 +720,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_live_arena",
@@ -1323,13 +746,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "events@texas-live.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "txlive"
-      ],
-      "email_confidence": 79
+      "email": ""
     },
     {
       "id": "biz_no_frills_grill_sports_bar_arlington_tx",
@@ -1363,12 +780,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "NoFrillsGrill"
-      ]
+      "email": ""
     },
     {
       "id": "biz_bff_asian_grill_sports_bar",
@@ -1398,10 +810,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@bffasiangrill.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 53
+      "email": ""
     },
     {
       "id": "biz_the_chuggin_monk",
@@ -1432,14 +841,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "amber.friend@dallasobserver.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "DallasObserver",
-        "judgmentalmaps"
-      ],
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_mac_s_tavern_grill_karaoke_bar",
@@ -1466,9 +868,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_boston_s_pizza_restaurant_sports_bar",
@@ -1501,10 +901,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "contact@bostons.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 78
+      "email": "mybostons@bostons.com"
     },
     {
       "id": "biz_la_sirena_sportsbar_arlington",
@@ -1538,12 +935,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "Lasirenamexicanrestaurant"
-      ]
+      "email": ""
     },
     {
       "id": "biz_clicks_billiards_billiards_games_sports_bar_grill",
@@ -1569,10 +961,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "jim@clicks.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 60
+      "email": ""
     },
     {
       "id": "biz_the_social_house",
@@ -1598,9 +987,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_rodeo_rye",
@@ -1626,12 +1013,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "rodeoandrye"
-      ]
+      "email": ""
     },
     {
       "id": "biz_smoke_chemistry_social",
@@ -1662,9 +1044,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_mis_tragos_bar_grill",
@@ -1728,10 +1108,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "events@hearsayarlington.com",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "email": "events@hearsayarlington.com"
     },
     {
       "id": "biz_cooper_s_bar_grill",
@@ -1759,10 +1136,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@coopersarlington.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 78
+      "email": "info@coopersarlington.com"
     },
     {
       "id": "biz_rodeo_goat_arlington",
@@ -1790,13 +1164,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@rodeogoat.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "RodeoGoatBurger"
-      ],
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_caves_lounge",
@@ -1824,9 +1192,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_mccullar_s_irish_pub_north",
@@ -1851,9 +1217,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_hooligans_pub",
@@ -1879,9 +1243,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_g_willickers_pub",
@@ -1909,10 +1271,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@gwillickerspub.com",
-      "email_source": "hunter_search",
-      "email_status": "invalid",
-      "email_confidence": 77
+      "email": ""
     },
     {
       "id": "biz_dirty_mule_bar",
@@ -1937,9 +1296,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_plaza_pub",
@@ -1993,12 +1350,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "hwybar"
-      ]
+      "email": ""
     },
     {
       "id": "biz_mccullars_irish_pub_and_grill_south",
@@ -2023,9 +1375,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_standard_pour",
@@ -2059,10 +1409,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@tspdallas.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info@tspdallas.com"
     },
     {
       "id": "biz_the_tipsy_alchemist",
@@ -2090,12 +1437,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "611225219027673"
-      ]
+      "email": ""
     },
     {
       "id": "biz_bar_colette",
@@ -2121,10 +1463,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@barcolette.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 80
+      "email": "info@barcolette.com"
     },
     {
       "id": "biz_bowen_house",
@@ -2152,9 +1491,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_leela_s_wine_bar_uptown",
@@ -2182,12 +1519,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "leelaswinebar"
-      ]
+      "email": ""
     },
     {
       "id": "biz_beau_nash",
@@ -2217,10 +1549,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "amy.fisher@crescentcourt.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_ghost_donkey_dallas",
@@ -2245,13 +1574,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "hello@ghostdonkeydallas.com",
-      "email_source": "hunter_search",
-      "email_status": "invalid",
-      "facebook_handles": [
-        "2008"
-      ],
-      "email_confidence": 80
+      "email": ""
     },
     {
       "id": "biz_devil_s_back_porch",
@@ -2276,9 +1599,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_mansion_bar",
@@ -2303,10 +1624,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "mansion.restaurant@rosewoodhotels.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "mansion.restaurant&#64;rosewoodhotels.com"
     },
     {
       "id": "biz_kitchen_kocktails",
@@ -2345,10 +1663,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "online@kitchenkocktailsusa.com",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "email": ""
     },
     {
       "id": "biz_babou_s",
@@ -2375,10 +1690,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "vipreservations@babousdallas.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 60
+      "email": ""
     },
     {
       "id": "biz_rattlesnake",
@@ -2407,9 +1719,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_apothecary",
@@ -2437,10 +1747,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@apothecary.bar",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": ""
     },
     {
       "id": "biz_kennedy_room",
@@ -2493,10 +1800,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "b.williams@atlascocktailbar.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "b.williams@atlascocktailbar.com"
     },
     {
       "id": "biz_alcove_wine_bar",
@@ -2526,9 +1830,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_harwood_arms",
@@ -2554,13 +1856,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "hello@harwoodarmsdallas.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "harwoodarmsdallas"
-      ],
-      "email_confidence": 60
+      "email": ""
     },
     {
       "id": "biz_moxies",
@@ -2586,14 +1882,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@moxies.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "MoxiesOfficial",
-        "moxiesusa"
-      ],
-      "email_confidence": 95
+      "email": ""
     },
     {
       "id": "biz_uptown_pub",
@@ -2625,9 +1914,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_local_tap_table",
@@ -2657,10 +1944,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "contact@localtapandtable.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "contact@localtapandtable.com"
     },
     {
       "id": "biz_thirsty_lion",
@@ -2690,13 +1974,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "2008",
-        "ThirstyLionRestaurant"
-      ]
+      "email": ""
     },
     {
       "id": "biz_jaquval_gastropub_brewery",
@@ -2724,9 +2002,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_blackfriar_pub",
@@ -2755,12 +2031,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "blackfriarpubdallas"
-      ]
+      "email": ""
     },
     {
       "id": "biz_rodeo_bar",
@@ -2789,14 +2060,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "sfitz@adolphus.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "rodeobardallas",
-        "TheAdolphus"
-      ],
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_the_old_monk",
@@ -2825,12 +2089,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "OldMonkDallas"
-      ]
+      "email": ""
     },
     {
       "id": "biz_harwood_tavern",
@@ -2863,12 +2122,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "HarwoodTavern"
-      ]
+      "email": ""
     },
     {
       "id": "biz_alexandre_s",
@@ -2898,10 +2152,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "lee@alexandres.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "lee@alexandres.com"
     },
     {
       "id": "biz_the_operators_club",
@@ -2932,9 +2183,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_stoneleigh_p",
@@ -2962,9 +2211,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_crafty_irishman",
@@ -2993,9 +2240,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_skellig",
@@ -3026,10 +2271,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "2409@theskelligdallas.com",
-      "email_source": "scraped_website",
-      "email_status": "unknown",
-      "email_confidence": 36
+      "email": "2409@theskelligdallas.com"
     },
     {
       "id": "biz_rebel_rose_neighborhood_bar",
@@ -3055,10 +2297,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@rebelandrosebar.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info@rebelandrosebar.com"
     },
     {
       "id": "biz_bar_w",
@@ -3117,14 +2356,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "2008",
-        "TheLoonDallas",
-        "2128598653826375"
-      ]
+      "email": ""
     },
     {
       "id": "biz_lucky_dog_saloon",
@@ -3151,10 +2383,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@luckydogsaloon.dog",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 92
+      "email": "info@luckydogsaloon.dog"
     },
     {
       "id": "biz_the_nodding_donkey",
@@ -3188,12 +2417,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "NoddingDonkey.Uptown"
-      ]
+      "email": ""
     },
     {
       "id": "biz_rodeo_uptown",
@@ -3218,13 +2442,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "2008",
-        "rodeodtx"
-      ]
+      "email": ""
     },
     {
       "id": "biz_the_bar_on_the_park",
@@ -3249,12 +2467,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "MiCocinaTexmex"
-      ]
+      "email": ""
     },
     {
       "id": "biz_twilite_lounge",
@@ -3279,12 +2492,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "twiliteloungedallas"
-      ]
+      "email": ""
     },
     {
       "id": "biz_will_call_bar",
@@ -3316,12 +2524,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "Willcallbar"
-      ]
+      "email": ""
     },
     {
       "id": "biz_adair_s_saloon",
@@ -3348,10 +2551,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@adairssaloon.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "joel@adairssaloon.com"
     },
     {
       "id": "biz_trophy",
@@ -3404,12 +2604,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "DoubleWideDallas"
-      ]
+      "email": ""
     },
     {
       "id": "biz_off_the_cuff",
@@ -3436,10 +2631,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@otcdallas.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 82
+      "email": "info@otcdallas.com"
     },
     {
       "id": "biz_electric_shuffle_dallas",
@@ -3469,10 +2661,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "events@electricshuffle.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 96
+      "email": ""
     },
     {
       "id": "biz_kanvas_by_kevin_kelley",
@@ -3499,10 +2688,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@kanvasusa.com",
-      "email_source": "hunter_search",
-      "email_status": "unverified",
-      "email_confidence": 60
+      "email": ""
     },
     {
       "id": "biz_reno_s_chop_shop_saloon",
@@ -3527,9 +2713,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_st_pete_s_dancing_marlin",
@@ -3560,12 +2744,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "theDancingMarlin"
-      ]
+      "email": ""
     },
     {
       "id": "biz_backyard_dallas",
@@ -3594,9 +2773,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_deep_ellum_art_co",
@@ -3624,10 +2801,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@deepellumart.co",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info@deepellumart.co"
     },
     {
       "id": "biz_the_bomb_factory",
@@ -3653,10 +2827,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "contact@thebombfactory.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "contact@thebombfactory.com"
     },
     {
       "id": "biz_rbc",
@@ -3686,9 +2857,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_studio_at_the_factory",
@@ -3714,13 +2883,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "thebombfactorydallas",
-        "studioatbombfactory"
-      ]
+      "email": ""
     },
     {
       "id": "biz_ruins",
@@ -3751,12 +2914,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "ruinsdeepellum"
-      ]
+      "email": ""
     },
     {
       "id": "biz_sons_of_hermann_hall",
@@ -3781,10 +2939,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "gm@sonsofhermannhall.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_house_of_blues_dallas",
@@ -3820,13 +2975,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "brock@houseofblues.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "HOBDallas"
-      ],
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_westlake_brewing_company",
@@ -3858,10 +3007,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "hello@westlakebeer.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "hello@westlakebeer.com"
     },
     {
       "id": "biz_cold_beer_company",
@@ -3886,10 +3032,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@coldbeerco.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 81
+      "email": "info@coldbeerco.com"
     },
     {
       "id": "biz_autonomous_society",
@@ -3921,12 +3064,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "AutonomousSocietyBrewpub"
-      ]
+      "email": ""
     },
     {
       "id": "biz_craft_and_growler",
@@ -3963,10 +3101,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "booking@craftandgrowler.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "booking@craftandgrowler.com"
     },
     {
       "id": "biz_four_corners_brewing_company",
@@ -3994,9 +3129,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "events@fcbrewing.com",
-      "email_source": "scraped_website",
-      "email_status": "unverified"
+      "email": "events@fcbrewing.com"
     },
     {
       "id": "biz_the_2nd_tap",
@@ -4021,10 +3154,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@the2ndtap.com",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "email": "info@the2ndtap.com"
     },
     {
       "id": "biz_good_side_pizza_pub",
@@ -4051,9 +3181,7 @@
         "food",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_amyfinehouse_luxury_downtown_stay",
@@ -4082,10 +3210,7 @@
         "service",
         "establishment"
       ],
-      "email": "bookings@amyfinehouse.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "bookings@amyfinehouse.com"
     },
     {
       "id": "biz_sova_micro_room_social_hotel",
@@ -4111,12 +3236,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "sovahotels"
-      ]
+      "email": ""
     },
     {
       "id": "biz_canvas_hotel",
@@ -4142,13 +3262,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "sales@canvashoteldallas.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "CANVASDallas"
-      ],
-      "email_confidence": 81
+      "email": ""
     },
     {
       "id": "biz_the_bishop_arts_hotel_by_q_resorts",
@@ -4174,9 +3288,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_madison_hotel_at_bishop_arts",
@@ -4202,9 +3314,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_greenhouse_uptown",
@@ -4230,9 +3340,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_fairmont_dallas",
@@ -4260,10 +3368,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "dallas@fairmont.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "dallas@fairmont.com"
     },
     {
       "id": "biz_bishop_arts_hotel",
@@ -4290,10 +3395,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@christianchernock.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info@christianchernock.com"
     },
     {
       "id": "biz_the_gaston_dallas_bed_and_breakfast",
@@ -4324,10 +3426,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@thegaston.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_hotel_zaza_dallas_uptown",
@@ -4358,13 +3457,7 @@
         "service",
         "establishment"
       ],
-      "email": "akhan@hotelzaza.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "HotelZaZaDallas"
-      ],
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_casa_duro",
@@ -4391,10 +3484,7 @@
         "service",
         "establishment"
       ],
-      "email": "info@casa-duro.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 90
+      "email": "info@casa-duro.com"
     },
     {
       "id": "biz_way_side_inn_by_hotel_o_dallas_near_fair_park_downtown",
@@ -4421,14 +3511,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "suzanne.holmes@oyorooms.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "oyorooms",
-        "OYOinUSA"
-      ],
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_trinity_suites_downtown_dallas",
@@ -4455,9 +3538,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_studio_6_suites_dallas_tx_downtown",
@@ -4484,9 +3565,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_mi_amor_inn_suites",
@@ -4539,10 +3618,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info.dallas@warwickhotels.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info.dallas@warwickhotels.com"
     },
     {
       "id": "biz_cityplace_bnb",
@@ -4569,10 +3645,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "medical@cityplacebnb.com",
-      "email_source": "hunter_search",
-      "email_status": "invalid",
-      "email_confidence": 75
+      "email": ""
     },
     {
       "id": "biz_3eleven_kitchen_and_cocktails",
@@ -4603,12 +3676,7 @@
         "food",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "3ElevenDallas"
-      ]
+      "email": ""
     },
     {
       "id": "biz_frankie_s_downtown",
@@ -4637,10 +3705,7 @@
         "food",
         "establishment"
       ],
-      "email": "info@frankiesbar.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 95
+      "email": ""
     },
     {
       "id": "biz_little_daisy",
@@ -4667,12 +3732,7 @@
         "food",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "2008"
-      ]
+      "email": ""
     },
     {
       "id": "biz_the_henry",
@@ -4708,12 +3768,7 @@
         "food",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "TheHenryRestaurant"
-      ]
+      "email": ""
     },
     {
       "id": "biz_the_hampton_social_dallas",
@@ -4740,10 +3795,7 @@
         "food",
         "establishment"
       ],
-      "email": "orlandoevents@thehamptonsocial.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 95
+      "email": ""
     },
     {
       "id": "biz_the_exchange_food_hall",
@@ -4770,12 +3822,7 @@
         "food",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "exchangehall"
-      ]
+      "email": ""
     },
     {
       "id": "biz_pangea_dallas",
@@ -4802,9 +3849,7 @@
         "food",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_vincent_s_skybar",
@@ -4829,15 +3874,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "rosa.azuara@marriott.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "groups",
-        "marriottbonvoy",
-        "JWMarriottDallas"
-      ],
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_mirador",
@@ -4864,10 +3901,7 @@
         "food",
         "establishment"
       ],
-      "email": "hello@mirador-dallas.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_waterproof",
@@ -4894,10 +3928,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "hello@waterproofdallas.com",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "email": "hello@waterproofdallas.com"
     },
     {
       "id": "biz_rooftop",
@@ -4948,9 +3979,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_rh_rooftop_restaurant_at_rh_dallas",
@@ -4977,10 +4006,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "cpalmer@rh.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_uptown_terrace_pool_bar_grill",
@@ -5007,10 +4033,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "sonya.cook@omnihotels.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_upside_west_village",
@@ -5035,13 +4058,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "reservations@upsidewestvillage.com",
-      "email_source": "hunter_search",
-      "email_status": "invalid",
-      "facebook_handles": [
-        "upsidewestvillage"
-      ],
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_the_artisan_rooftop_terrace",
@@ -5066,10 +4083,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@theartisandallas.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info@theartisandallas.com"
     },
     {
       "id": "biz_hg_sply_co",
@@ -5096,10 +4110,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "infodallas@hgsplyco.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "infodallas@hgsplyco.com"
     },
     {
       "id": "biz_the_sanford_house_inn_spa",
@@ -5136,10 +4147,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "events@thesanfordhouse.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 60
+      "email": ""
     },
     {
       "id": "biz_lux_hotel_and_spa",
@@ -5167,10 +4175,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@luxhotelandspa.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 82
+      "email": "info@luxhotelandspa.com"
     },
     {
       "id": "biz_arlington_dallas",
@@ -5222,10 +4227,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "rosa.azuara@marriott.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_the_thornton_inn_bed_and_breakfast",
@@ -5251,9 +4253,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_drury_plaza_hotel_dallas_arlington",
@@ -5279,10 +4279,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "kate.scheer@druryhotels.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_r_nite_star_hotel",
@@ -5310,10 +4307,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@rnitestar.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info@rnitestar.com"
     },
     {
       "id": "biz_cambria_hotel_euless_dfw_airport_south",
@@ -5339,10 +4333,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "tom.duffe@choicehotels.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_sonesta_simply_suites_arlington_entertainment_district",
@@ -5368,13 +4359,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "lellison@sonesta.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "SonestaHotels"
-      ],
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_exclusivo_inn_by_oyo_grand_prairie_tx",
@@ -5400,14 +4385,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "suzanne.holmes@oyorooms.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "oyorooms",
-        "OYOinUSA"
-      ],
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_ranger_inn_suites",
@@ -5433,9 +4411,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_executive_inn_of_arlington_near_at_t_stadium",
@@ -5488,9 +4464,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_studio_6_arlington_tx",
@@ -5517,9 +4491,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_budget_host_inn",
@@ -5545,10 +4517,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@budgethost.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 96
+      "email": ""
     },
     {
       "id": "biz_arlington_motor_inn",
@@ -5600,10 +4569,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "stay@threedanesinn.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "stay@threedanesinn.com"
     },
     {
       "id": "biz_alla_s_historical_bed_and_breakfast_spa_and_cabana",
@@ -5631,9 +4597,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_jefferson_street_bed_and_breakfast_inn",
@@ -5661,9 +4625,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_virginia_may",
@@ -5689,13 +4651,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "2008",
-        "thevirginiamay"
-      ]
+      "email": ""
     },
     {
       "id": "biz_brierhouse_bed_and_breakfast",
@@ -5750,12 +4706,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "TexicanCourt"
-      ]
+      "email": ""
     },
     {
       "id": "biz_soka_suites_dallas_las_colinas",
@@ -5781,12 +4732,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "profile.php"
-      ]
+      "email": ""
     },
     {
       "id": "biz_sandman_signature_dallas_las_colinas_hotel_suites",
@@ -5812,13 +4758,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "salesco_signaturefw@sandmanhotels.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "facebook_handles": [
-        "SandmanHotelGroup"
-      ],
-      "email_confidence": 98
+      "email": ""
     },
     {
       "id": "biz_sonesta_simply_suites_dallas_las_colinas",
@@ -5845,13 +4785,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "lellison@sonesta.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "facebook_handles": [
-        "SonestaHotels"
-      ],
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_quality_suites_irving_las_colinas",
@@ -5877,10 +4811,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "tom.duffe@choicehotels.com",
-      "email_source": "hunter_search",
-      "email_status": "valid",
-      "email_confidence": 99
+      "email": ""
     },
     {
       "id": "biz_buzen_suites_las_colinas_boutique_motel",
@@ -5906,10 +4837,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@buzensuites2030.com",
-      "email_source": "scraped_website",
-      "email_status": "invalid",
-      "email_confidence": 0
+      "email": "info@buzensuites2030.com"
     },
     {
       "id": "biz_the_lakehouse_waterfront_lounge",
@@ -5934,10 +4862,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "sonya.cook@omnihotels.com",
-      "email_source": "hunter_search",
-      "email_status": "accept_all",
-      "email_confidence": 94
+      "email": ""
     },
     {
       "id": "biz_the_ranch_at_las_colinas",
@@ -5966,10 +4891,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "info@theranchlc.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "info@theranchlc.com"
     },
     {
       "id": "biz_cork_pig_tavern_las_colinas",
@@ -5995,9 +4917,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_monaco",
@@ -6023,10 +4943,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "ciao@themonacorestaurant.com",
-      "email_source": "scraped_website",
-      "email_status": "valid",
-      "email_confidence": 100
+      "email": "ciao@themonacorestaurant.com"
     },
     {
       "id": "biz_chop_sports_las_colinas",
@@ -6058,9 +4975,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_reservoir_at_toyota_music_factory",
@@ -6087,12 +5002,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "442970639553529"
-      ]
+      "email": ""
     },
     {
       "id": "biz_whiskey_cake_las_colinas",
@@ -6119,14 +5029,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "whiskeycakestafford",
-        "whiskeycak",
-        "WhiskeyCakeSa"
-      ]
+      "email": ""
     },
     {
       "id": "biz_the_reserve_las_colinas",
@@ -6165,9 +5068,7 @@
         "service",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified"
+      "email": ""
     },
     {
       "id": "biz_the_spirit_grille",
@@ -6196,10 +5097,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "mnevares@spiritgrille.com",
-      "email_source": "scraped_website",
-      "email_status": "accept_all",
-      "email_confidence": 81
+      "email": "mnevares@spiritgrille.com"
     },
     {
       "id": "biz_hudson_house",
@@ -6225,13 +5123,7 @@
         "point_of_interest",
         "establishment"
       ],
-      "email": "",
-      "email_source": "",
-      "email_status": "unverified",
-      "facebook_handles": [
-        "HudsonHouseHP",
-        "VandelayHospitality"
-      ]
+      "email": ""
     }
   ]
 }

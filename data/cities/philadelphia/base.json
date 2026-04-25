@@ -1,0 +1,452 @@
+{
+  "city": {
+    "city_id": "philadelphia",
+    "name": "Philadelphia",
+    "venue_name": "Lincoln Financial Field",
+    "venue_capacity": 67594,
+    "country": "USA",
+    "timezone": "America/New_York",
+    "default_map_center": [
+      -75.165,
+      39.953
+    ],
+    "default_map_zoom": 11.0
+  },
+  "nodes": [
+    {
+      "id": "dfw_airport",
+      "label": "Philadelphia International Airport",
+      "lat": 39.8744,
+      "lng": -75.2424
+    },
+    {
+      "id": "grapevine_junction",
+      "label": "I-95 South Gateway",
+      "lat": 39.881,
+      "lng": -75.1984
+    },
+    {
+      "id": "las_colinas",
+      "label": "Center City Hotel District",
+      "lat": 39.9526,
+      "lng": -75.1652
+    },
+    {
+      "id": "irving_gateway",
+      "label": "Avenue of the Arts Connector",
+      "lat": 39.924,
+      "lng": -75.175
+    },
+    {
+      "id": "design_district",
+      "label": "Rittenhouse Square / Arts District",
+      "lat": 39.9622,
+      "lng": -75.1731
+    },
+    {
+      "id": "downtown_dallas",
+      "label": "Center City Philadelphia",
+      "lat": 39.9526,
+      "lng": -75.1652
+    },
+    {
+      "id": "uptown",
+      "label": "Old City",
+      "lat": 39.9569,
+      "lng": -75.1474
+    },
+    {
+      "id": "deep_ellum",
+      "label": "Northern Liberties / Fishtown",
+      "lat": 39.9737,
+      "lng": -75.141
+    },
+    {
+      "id": "arlington_north",
+      "label": "Stadium District North",
+      "lat": 39.91,
+      "lng": -75.17
+    },
+    {
+      "id": "stadium",
+      "label": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
+    },
+    {
+      "id": "texas_live",
+      "label": "Stadium Entertainment Plaza",
+      "lat": 39.908,
+      "lng": -75.169
+    },
+    {
+      "id": "arlington_hotels",
+      "label": "Stadium Hotel Cluster",
+      "lat": 39.905,
+      "lng": -75.162
+    },
+    {
+      "id": "local_neighborhoods",
+      "label": "South Philadelphia Neighborhoods",
+      "lat": 39.932,
+      "lng": -75.182
+    },
+    {
+      "id": "fanzone",
+      "label": "Philadelphia Fan Zone",
+      "lat": 39.9095,
+      "lng": -75.1715
+    }
+  ],
+  "edges": [
+    {
+      "id": "dfw_grapevine",
+      "source": "dfw_airport",
+      "target": "grapevine_junction",
+      "road_name": "Inter-District Highway",
+      "capacity": 8200,
+      "base_travel_minutes": 6,
+      "distance_km": 3.8,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "grapevine_las_colinas",
+      "source": "grapevine_junction",
+      "target": "las_colinas",
+      "road_name": "Inter-District Highway",
+      "capacity": 7800,
+      "base_travel_minutes": 11,
+      "distance_km": 8.5,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "las_colinas_irving",
+      "source": "las_colinas",
+      "target": "irving_gateway",
+      "road_name": "Inter-District Highway",
+      "capacity": 7600,
+      "base_travel_minutes": 6,
+      "distance_km": 3.3,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "irving_design",
+      "source": "irving_gateway",
+      "target": "design_district",
+      "road_name": "Arterial Connector",
+      "capacity": 8900,
+      "base_travel_minutes": 11,
+      "distance_km": 4.3,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "design_downtown",
+      "source": "design_district",
+      "target": "downtown_dallas",
+      "road_name": "Arterial Connector",
+      "capacity": 5400,
+      "base_travel_minutes": 5,
+      "distance_km": 1.3,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_uptown",
+      "source": "downtown_dallas",
+      "target": "uptown",
+      "road_name": "Arterial Connector",
+      "capacity": 3200,
+      "base_travel_minutes": 5,
+      "distance_km": 1.6,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_deep_ellum",
+      "source": "downtown_dallas",
+      "target": "deep_ellum",
+      "road_name": "Arterial Connector",
+      "capacity": 2800,
+      "base_travel_minutes": 8,
+      "distance_km": 3.1,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_stadium",
+      "source": "downtown_dallas",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 9600,
+      "base_travel_minutes": 8,
+      "distance_km": 5.8,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "irving_stadium",
+      "source": "irving_gateway",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 9300,
+      "base_travel_minutes": 5,
+      "distance_km": 2.7,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "arlington_north_stadium",
+      "source": "arlington_north",
+      "target": "stadium",
+      "road_name": "Arterial Connector",
+      "capacity": 3400,
+      "base_travel_minutes": 4,
+      "distance_km": 1.0,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_stadium",
+      "source": "texas_live",
+      "target": "stadium",
+      "road_name": "Local Connector",
+      "capacity": 1900,
+      "base_travel_minutes": 4,
+      "distance_km": 0.8,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "arlington_hotels_stadium",
+      "source": "arlington_hotels",
+      "target": "stadium",
+      "road_name": "Local Connector",
+      "capacity": 2200,
+      "base_travel_minutes": 3,
+      "distance_km": 0.7,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "local_stadium",
+      "source": "local_neighborhoods",
+      "target": "stadium",
+      "road_name": "Arterial Connector",
+      "capacity": 3100,
+      "base_travel_minutes": 9,
+      "distance_km": 3.7,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_fanzone",
+      "source": "texas_live",
+      "target": "fanzone",
+      "road_name": "Local Connector",
+      "capacity": 1600,
+      "base_travel_minutes": 2,
+      "distance_km": 0.3,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "local_hotels",
+      "source": "local_neighborhoods",
+      "target": "arlington_hotels",
+      "road_name": "Arterial Connector",
+      "capacity": 2600,
+      "base_travel_minutes": 9,
+      "distance_km": 3.5,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_arlington_north",
+      "source": "texas_live",
+      "target": "arlington_north",
+      "road_name": "Local Connector",
+      "capacity": 2400,
+      "base_travel_minutes": 2,
+      "distance_km": 0.2,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "fanzone_arlington_hotels",
+      "source": "fanzone",
+      "target": "arlington_hotels",
+      "road_name": "Arterial Connector",
+      "capacity": 2100,
+      "base_travel_minutes": 4,
+      "distance_km": 1.0,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "las_colinas_downtown",
+      "source": "las_colinas",
+      "target": "downtown_dallas",
+      "road_name": "Inter-District Highway",
+      "capacity": 7000,
+      "base_travel_minutes": 2,
+      "distance_km": 0.0,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "design_uptown",
+      "source": "design_district",
+      "target": "uptown",
+      "road_name": "Arterial Connector",
+      "capacity": 2500,
+      "base_travel_minutes": 7,
+      "distance_km": 2.3,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "design_stadium",
+      "source": "design_district",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 6100,
+      "base_travel_minutes": 9,
+      "distance_km": 6.8,
+      "kind": "highway",
+      "bidirectional": true
+    }
+  ],
+  "zones": [
+    {
+      "id": "stadium_zone",
+      "name": "Lincoln Financial Field Bowl",
+      "kind": "stadium",
+      "node_id": "stadium",
+      "center": [
+        -75.1675,
+        39.9008
+      ],
+      "radius_m": 350,
+      "focus_color": "#F97316"
+    },
+    {
+      "id": "fanzone_zone",
+      "name": "Philadelphia Fan Zone",
+      "kind": "fanzone",
+      "node_id": "fanzone",
+      "center": [
+        -75.1715,
+        39.9095
+      ],
+      "radius_m": 450,
+      "focus_color": "#F4B942"
+    },
+    {
+      "id": "texas_live_zone",
+      "name": "Stadium Entertainment Plaza",
+      "kind": "bar_cluster",
+      "node_id": "texas_live",
+      "center": [
+        -75.169,
+        39.908
+      ],
+      "radius_m": 600,
+      "focus_color": "#F43F5E"
+    },
+    {
+      "id": "arlington_hotels_zone",
+      "name": "Stadium Hotel Cluster",
+      "kind": "hotel_cluster",
+      "node_id": "arlington_hotels",
+      "center": [
+        -75.162,
+        39.905
+      ],
+      "radius_m": 700,
+      "focus_color": "#22C55E"
+    },
+    {
+      "id": "local_zone",
+      "name": "South Philadelphia Neighborhoods",
+      "kind": "residential",
+      "node_id": "local_neighborhoods",
+      "center": [
+        -75.182,
+        39.932
+      ],
+      "radius_m": 850,
+      "focus_color": "#64748B"
+    },
+    {
+      "id": "las_colinas_zone",
+      "name": "Center City Hotel District",
+      "kind": "hotel_cluster",
+      "node_id": "las_colinas",
+      "center": [
+        -75.1652,
+        39.9526
+      ],
+      "radius_m": 780,
+      "focus_color": "#0EA5E9"
+    },
+    {
+      "id": "downtown_zone",
+      "name": "Center City Philadelphia",
+      "kind": "hotel_cluster",
+      "node_id": "downtown_dallas",
+      "center": [
+        -75.1652,
+        39.9526
+      ],
+      "radius_m": 950,
+      "focus_color": "#14B8A6"
+    },
+    {
+      "id": "uptown_zone",
+      "name": "Old City",
+      "kind": "bar_cluster",
+      "node_id": "uptown",
+      "center": [
+        -75.1474,
+        39.9569
+      ],
+      "radius_m": 700,
+      "focus_color": "#8B5CF6"
+    },
+    {
+      "id": "deep_ellum_zone",
+      "name": "Northern Liberties / Fishtown",
+      "kind": "bar_cluster",
+      "node_id": "deep_ellum",
+      "center": [
+        -75.141,
+        39.9737
+      ],
+      "radius_m": 650,
+      "focus_color": "#EF4444"
+    },
+    {
+      "id": "airport_zone",
+      "name": "Philadelphia International Airport",
+      "kind": "transport",
+      "node_id": "dfw_airport",
+      "center": [
+        -75.2424,
+        39.8744
+      ],
+      "radius_m": 1100,
+      "focus_color": "#3B82F6"
+    }
+  ],
+  "provenance": {
+    "seed_graph": "auto-generated host-city road simulation graph (legacy node IDs preserved)",
+    "businesses": "to be enriched via Google Places + Hunter pipeline",
+    "weather": "baseline match weather profile with city-local kickoff timing",
+    "places_enrichment": "live Google Places overlay",
+    "llm_recommendations": "heuristic by default, optionally upgraded through Anthropic"
+  }
+}

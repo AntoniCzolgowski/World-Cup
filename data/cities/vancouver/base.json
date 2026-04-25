@@ -1,0 +1,452 @@
+{
+  "city": {
+    "city_id": "vancouver",
+    "name": "Vancouver",
+    "venue_name": "BC Place",
+    "venue_capacity": 54500,
+    "country": "Canada",
+    "timezone": "America/Vancouver",
+    "default_map_center": [
+      -123.1207,
+      49.2827
+    ],
+    "default_map_zoom": 11.0
+  },
+  "nodes": [
+    {
+      "id": "dfw_airport",
+      "label": "Vancouver International Airport (YVR)",
+      "lat": 49.1947,
+      "lng": -123.1792
+    },
+    {
+      "id": "grapevine_junction",
+      "label": "Granville Bridge Gateway",
+      "lat": 49.22,
+      "lng": -123.15
+    },
+    {
+      "id": "las_colinas",
+      "label": "West End / Coal Harbour Hotels",
+      "lat": 49.287,
+      "lng": -123.134
+    },
+    {
+      "id": "irving_gateway",
+      "label": "Yaletown Connector",
+      "lat": 49.278,
+      "lng": -123.118
+    },
+    {
+      "id": "design_district",
+      "label": "False Creek / Yaletown",
+      "lat": 49.273,
+      "lng": -123.124
+    },
+    {
+      "id": "downtown_dallas",
+      "label": "Downtown Vancouver",
+      "lat": 49.2827,
+      "lng": -123.1207
+    },
+    {
+      "id": "uptown",
+      "label": "Yaletown",
+      "lat": 49.275,
+      "lng": -123.123
+    },
+    {
+      "id": "deep_ellum",
+      "label": "Gastown / Chinatown",
+      "lat": 49.282,
+      "lng": -123.101
+    },
+    {
+      "id": "arlington_north",
+      "label": "Stadium District North",
+      "lat": 49.279,
+      "lng": -123.116
+    },
+    {
+      "id": "stadium",
+      "label": "BC Place",
+      "lat": 49.2767,
+      "lng": -123.1119
+    },
+    {
+      "id": "texas_live",
+      "label": "Stadium Entertainment District",
+      "lat": 49.278,
+      "lng": -123.113
+    },
+    {
+      "id": "arlington_hotels",
+      "label": "Stadium Hotel Cluster",
+      "lat": 49.277,
+      "lng": -123.1145
+    },
+    {
+      "id": "local_neighborhoods",
+      "label": "Mount Pleasant Neighborhoods",
+      "lat": 49.267,
+      "lng": -123.1135
+    },
+    {
+      "id": "fanzone",
+      "label": "Vancouver Fan Zone",
+      "lat": 49.278,
+      "lng": -123.1145
+    }
+  ],
+  "edges": [
+    {
+      "id": "dfw_grapevine",
+      "source": "dfw_airport",
+      "target": "grapevine_junction",
+      "road_name": "Inter-District Highway",
+      "capacity": 8200,
+      "base_travel_minutes": 6,
+      "distance_km": 3.5,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "grapevine_las_colinas",
+      "source": "grapevine_junction",
+      "target": "las_colinas",
+      "road_name": "Inter-District Highway",
+      "capacity": 7800,
+      "base_travel_minutes": 10,
+      "distance_km": 7.5,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "las_colinas_irving",
+      "source": "las_colinas",
+      "target": "irving_gateway",
+      "road_name": "Inter-District Highway",
+      "capacity": 7600,
+      "base_travel_minutes": 4,
+      "distance_km": 1.5,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "irving_design",
+      "source": "irving_gateway",
+      "target": "design_district",
+      "road_name": "Arterial Connector",
+      "capacity": 8900,
+      "base_travel_minutes": 3,
+      "distance_km": 0.7,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "design_downtown",
+      "source": "design_district",
+      "target": "downtown_dallas",
+      "road_name": "Arterial Connector",
+      "capacity": 5400,
+      "base_travel_minutes": 4,
+      "distance_km": 1.1,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_uptown",
+      "source": "downtown_dallas",
+      "target": "uptown",
+      "road_name": "Arterial Connector",
+      "capacity": 3200,
+      "base_travel_minutes": 4,
+      "distance_km": 0.9,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_deep_ellum",
+      "source": "downtown_dallas",
+      "target": "deep_ellum",
+      "road_name": "Arterial Connector",
+      "capacity": 2800,
+      "base_travel_minutes": 5,
+      "distance_km": 1.4,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_stadium",
+      "source": "downtown_dallas",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 9600,
+      "base_travel_minutes": 3,
+      "distance_km": 0.9,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "irving_stadium",
+      "source": "irving_gateway",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 9300,
+      "base_travel_minutes": 3,
+      "distance_km": 0.5,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "arlington_north_stadium",
+      "source": "arlington_north",
+      "target": "stadium",
+      "road_name": "Arterial Connector",
+      "capacity": 3400,
+      "base_travel_minutes": 3,
+      "distance_km": 0.4,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_stadium",
+      "source": "texas_live",
+      "target": "stadium",
+      "road_name": "Local Connector",
+      "capacity": 1900,
+      "base_travel_minutes": 2,
+      "distance_km": 0.2,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "arlington_hotels_stadium",
+      "source": "arlington_hotels",
+      "target": "stadium",
+      "road_name": "Local Connector",
+      "capacity": 2200,
+      "base_travel_minutes": 2,
+      "distance_km": 0.2,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "local_stadium",
+      "source": "local_neighborhoods",
+      "target": "stadium",
+      "road_name": "Arterial Connector",
+      "capacity": 3100,
+      "base_travel_minutes": 4,
+      "distance_km": 1.1,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_fanzone",
+      "source": "texas_live",
+      "target": "fanzone",
+      "road_name": "Local Connector",
+      "capacity": 1600,
+      "base_travel_minutes": 2,
+      "distance_km": 0.1,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "local_hotels",
+      "source": "local_neighborhoods",
+      "target": "arlington_hotels",
+      "road_name": "Arterial Connector",
+      "capacity": 2600,
+      "base_travel_minutes": 4,
+      "distance_km": 1.1,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_arlington_north",
+      "source": "texas_live",
+      "target": "arlington_north",
+      "road_name": "Local Connector",
+      "capacity": 2400,
+      "base_travel_minutes": 2,
+      "distance_km": 0.2,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "fanzone_arlington_hotels",
+      "source": "fanzone",
+      "target": "arlington_hotels",
+      "road_name": "Arterial Connector",
+      "capacity": 2100,
+      "base_travel_minutes": 2,
+      "distance_km": 0.1,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "las_colinas_downtown",
+      "source": "las_colinas",
+      "target": "downtown_dallas",
+      "road_name": "Inter-District Highway",
+      "capacity": 7000,
+      "base_travel_minutes": 3,
+      "distance_km": 1.1,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "design_uptown",
+      "source": "design_district",
+      "target": "uptown",
+      "road_name": "Arterial Connector",
+      "capacity": 2500,
+      "base_travel_minutes": 2,
+      "distance_km": 0.2,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "design_stadium",
+      "source": "design_district",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 6100,
+      "base_travel_minutes": 3,
+      "distance_km": 1.0,
+      "kind": "highway",
+      "bidirectional": true
+    }
+  ],
+  "zones": [
+    {
+      "id": "stadium_zone",
+      "name": "BC Place Bowl",
+      "kind": "stadium",
+      "node_id": "stadium",
+      "center": [
+        -123.1119,
+        49.2767
+      ],
+      "radius_m": 350,
+      "focus_color": "#F97316"
+    },
+    {
+      "id": "fanzone_zone",
+      "name": "Vancouver Fan Zone",
+      "kind": "fanzone",
+      "node_id": "fanzone",
+      "center": [
+        -123.1145,
+        49.278
+      ],
+      "radius_m": 450,
+      "focus_color": "#F4B942"
+    },
+    {
+      "id": "texas_live_zone",
+      "name": "Stadium Entertainment District",
+      "kind": "bar_cluster",
+      "node_id": "texas_live",
+      "center": [
+        -123.113,
+        49.278
+      ],
+      "radius_m": 600,
+      "focus_color": "#F43F5E"
+    },
+    {
+      "id": "arlington_hotels_zone",
+      "name": "Stadium Hotel Cluster",
+      "kind": "hotel_cluster",
+      "node_id": "arlington_hotels",
+      "center": [
+        -123.1145,
+        49.277
+      ],
+      "radius_m": 700,
+      "focus_color": "#22C55E"
+    },
+    {
+      "id": "local_zone",
+      "name": "Mount Pleasant Neighborhoods",
+      "kind": "residential",
+      "node_id": "local_neighborhoods",
+      "center": [
+        -123.1135,
+        49.267
+      ],
+      "radius_m": 850,
+      "focus_color": "#64748B"
+    },
+    {
+      "id": "las_colinas_zone",
+      "name": "West End / Coal Harbour Hotels",
+      "kind": "hotel_cluster",
+      "node_id": "las_colinas",
+      "center": [
+        -123.134,
+        49.287
+      ],
+      "radius_m": 780,
+      "focus_color": "#0EA5E9"
+    },
+    {
+      "id": "downtown_zone",
+      "name": "Downtown Vancouver",
+      "kind": "hotel_cluster",
+      "node_id": "downtown_dallas",
+      "center": [
+        -123.1207,
+        49.2827
+      ],
+      "radius_m": 950,
+      "focus_color": "#14B8A6"
+    },
+    {
+      "id": "uptown_zone",
+      "name": "Yaletown",
+      "kind": "bar_cluster",
+      "node_id": "uptown",
+      "center": [
+        -123.123,
+        49.275
+      ],
+      "radius_m": 700,
+      "focus_color": "#8B5CF6"
+    },
+    {
+      "id": "deep_ellum_zone",
+      "name": "Gastown / Chinatown",
+      "kind": "bar_cluster",
+      "node_id": "deep_ellum",
+      "center": [
+        -123.101,
+        49.282
+      ],
+      "radius_m": 650,
+      "focus_color": "#EF4444"
+    },
+    {
+      "id": "airport_zone",
+      "name": "Vancouver International Airport (YVR)",
+      "kind": "transport",
+      "node_id": "dfw_airport",
+      "center": [
+        -123.1792,
+        49.1947
+      ],
+      "radius_m": 1100,
+      "focus_color": "#3B82F6"
+    }
+  ],
+  "provenance": {
+    "seed_graph": "auto-generated host-city road simulation graph (legacy node IDs preserved)",
+    "businesses": "to be enriched via Google Places + Hunter pipeline",
+    "weather": "baseline match weather profile with city-local kickoff timing",
+    "places_enrichment": "live Google Places overlay",
+    "llm_recommendations": "heuristic by default, optionally upgraded through Anthropic"
+  }
+}

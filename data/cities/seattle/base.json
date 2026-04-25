@@ -1,0 +1,452 @@
+{
+  "city": {
+    "city_id": "seattle",
+    "name": "Seattle",
+    "venue_name": "Lumen Field",
+    "venue_capacity": 68740,
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "default_map_center": [
+      -122.3321,
+      47.6062
+    ],
+    "default_map_zoom": 11.0
+  },
+  "nodes": [
+    {
+      "id": "dfw_airport",
+      "label": "Seattle-Tacoma International Airport",
+      "lat": 47.4502,
+      "lng": -122.3088
+    },
+    {
+      "id": "grapevine_junction",
+      "label": "I-5 South Gateway",
+      "lat": 47.53,
+      "lng": -122.305
+    },
+    {
+      "id": "las_colinas",
+      "label": "Belltown / Queen Anne Hotels",
+      "lat": 47.6232,
+      "lng": -122.3563
+    },
+    {
+      "id": "irving_gateway",
+      "label": "Pioneer Square Connector",
+      "lat": 47.6035,
+      "lng": -122.33
+    },
+    {
+      "id": "design_district",
+      "label": "Pike Place / Waterfront",
+      "lat": 47.608,
+      "lng": -122.34
+    },
+    {
+      "id": "downtown_dallas",
+      "label": "Downtown Seattle",
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    {
+      "id": "uptown",
+      "label": "Belltown",
+      "lat": 47.6155,
+      "lng": -122.346
+    },
+    {
+      "id": "deep_ellum",
+      "label": "Capitol Hill",
+      "lat": 47.6206,
+      "lng": -122.3128
+    },
+    {
+      "id": "arlington_north",
+      "label": "Stadium District North",
+      "lat": 47.5995,
+      "lng": -122.332
+    },
+    {
+      "id": "stadium",
+      "label": "Lumen Field",
+      "lat": 47.5952,
+      "lng": -122.3316
+    },
+    {
+      "id": "texas_live",
+      "label": "Pioneer Square Entertainment",
+      "lat": 47.597,
+      "lng": -122.332
+    },
+    {
+      "id": "arlington_hotels",
+      "label": "Stadium Hotel Cluster",
+      "lat": 47.601,
+      "lng": -122.334
+    },
+    {
+      "id": "local_neighborhoods",
+      "label": "SoDo / Beacon Hill",
+      "lat": 47.571,
+      "lng": -122.329
+    },
+    {
+      "id": "fanzone",
+      "label": "Seattle Fan Zone",
+      "lat": 47.5985,
+      "lng": -122.3325
+    }
+  ],
+  "edges": [
+    {
+      "id": "dfw_grapevine",
+      "source": "dfw_airport",
+      "target": "grapevine_junction",
+      "road_name": "Inter-District Highway",
+      "capacity": 8200,
+      "base_travel_minutes": 12,
+      "distance_km": 8.9,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "grapevine_las_colinas",
+      "source": "grapevine_junction",
+      "target": "las_colinas",
+      "road_name": "Inter-District Highway",
+      "capacity": 7800,
+      "base_travel_minutes": 14,
+      "distance_km": 11.1,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "las_colinas_irving",
+      "source": "las_colinas",
+      "target": "irving_gateway",
+      "road_name": "Inter-District Highway",
+      "capacity": 7600,
+      "base_travel_minutes": 5,
+      "distance_km": 2.9,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "irving_design",
+      "source": "irving_gateway",
+      "target": "design_district",
+      "road_name": "Arterial Connector",
+      "capacity": 8900,
+      "base_travel_minutes": 4,
+      "distance_km": 0.9,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "design_downtown",
+      "source": "design_district",
+      "target": "downtown_dallas",
+      "road_name": "Arterial Connector",
+      "capacity": 5400,
+      "base_travel_minutes": 3,
+      "distance_km": 0.6,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_uptown",
+      "source": "downtown_dallas",
+      "target": "uptown",
+      "road_name": "Arterial Connector",
+      "capacity": 3200,
+      "base_travel_minutes": 5,
+      "distance_km": 1.5,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_deep_ellum",
+      "source": "downtown_dallas",
+      "target": "deep_ellum",
+      "road_name": "Arterial Connector",
+      "capacity": 2800,
+      "base_travel_minutes": 6,
+      "distance_km": 2.2,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "downtown_stadium",
+      "source": "downtown_dallas",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 9600,
+      "base_travel_minutes": 3,
+      "distance_km": 1.2,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "irving_stadium",
+      "source": "irving_gateway",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 9300,
+      "base_travel_minutes": 3,
+      "distance_km": 0.9,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "arlington_north_stadium",
+      "source": "arlington_north",
+      "target": "stadium",
+      "road_name": "Arterial Connector",
+      "capacity": 3400,
+      "base_travel_minutes": 3,
+      "distance_km": 0.5,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_stadium",
+      "source": "texas_live",
+      "target": "stadium",
+      "road_name": "Local Connector",
+      "capacity": 1900,
+      "base_travel_minutes": 2,
+      "distance_km": 0.2,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "arlington_hotels_stadium",
+      "source": "arlington_hotels",
+      "target": "stadium",
+      "road_name": "Local Connector",
+      "capacity": 2200,
+      "base_travel_minutes": 3,
+      "distance_km": 0.7,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "local_stadium",
+      "source": "local_neighborhoods",
+      "target": "stadium",
+      "road_name": "Arterial Connector",
+      "capacity": 3100,
+      "base_travel_minutes": 7,
+      "distance_km": 2.7,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_fanzone",
+      "source": "texas_live",
+      "target": "fanzone",
+      "road_name": "Local Connector",
+      "capacity": 1600,
+      "base_travel_minutes": 2,
+      "distance_km": 0.2,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "local_hotels",
+      "source": "local_neighborhoods",
+      "target": "arlington_hotels",
+      "road_name": "Arterial Connector",
+      "capacity": 2600,
+      "base_travel_minutes": 9,
+      "distance_km": 3.4,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "texas_live_arlington_north",
+      "source": "texas_live",
+      "target": "arlington_north",
+      "road_name": "Local Connector",
+      "capacity": 2400,
+      "base_travel_minutes": 2,
+      "distance_km": 0.3,
+      "kind": "local",
+      "bidirectional": true
+    },
+    {
+      "id": "fanzone_arlington_hotels",
+      "source": "fanzone",
+      "target": "arlington_hotels",
+      "road_name": "Arterial Connector",
+      "capacity": 2100,
+      "base_travel_minutes": 3,
+      "distance_km": 0.3,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "las_colinas_downtown",
+      "source": "las_colinas",
+      "target": "downtown_dallas",
+      "road_name": "Inter-District Highway",
+      "capacity": 7000,
+      "base_travel_minutes": 5,
+      "distance_km": 2.6,
+      "kind": "highway",
+      "bidirectional": true
+    },
+    {
+      "id": "design_uptown",
+      "source": "design_district",
+      "target": "uptown",
+      "road_name": "Arterial Connector",
+      "capacity": 2500,
+      "base_travel_minutes": 4,
+      "distance_km": 0.9,
+      "kind": "arterial",
+      "bidirectional": true
+    },
+    {
+      "id": "design_stadium",
+      "source": "design_district",
+      "target": "stadium",
+      "road_name": "Inter-District Highway",
+      "capacity": 6100,
+      "base_travel_minutes": 4,
+      "distance_km": 1.6,
+      "kind": "highway",
+      "bidirectional": true
+    }
+  ],
+  "zones": [
+    {
+      "id": "stadium_zone",
+      "name": "Lumen Field Bowl",
+      "kind": "stadium",
+      "node_id": "stadium",
+      "center": [
+        -122.3316,
+        47.5952
+      ],
+      "radius_m": 350,
+      "focus_color": "#F97316"
+    },
+    {
+      "id": "fanzone_zone",
+      "name": "Seattle Fan Zone",
+      "kind": "fanzone",
+      "node_id": "fanzone",
+      "center": [
+        -122.3325,
+        47.5985
+      ],
+      "radius_m": 450,
+      "focus_color": "#F4B942"
+    },
+    {
+      "id": "texas_live_zone",
+      "name": "Pioneer Square Entertainment",
+      "kind": "bar_cluster",
+      "node_id": "texas_live",
+      "center": [
+        -122.332,
+        47.597
+      ],
+      "radius_m": 600,
+      "focus_color": "#F43F5E"
+    },
+    {
+      "id": "arlington_hotels_zone",
+      "name": "Stadium Hotel Cluster",
+      "kind": "hotel_cluster",
+      "node_id": "arlington_hotels",
+      "center": [
+        -122.334,
+        47.601
+      ],
+      "radius_m": 700,
+      "focus_color": "#22C55E"
+    },
+    {
+      "id": "local_zone",
+      "name": "SoDo / Beacon Hill",
+      "kind": "residential",
+      "node_id": "local_neighborhoods",
+      "center": [
+        -122.329,
+        47.571
+      ],
+      "radius_m": 850,
+      "focus_color": "#64748B"
+    },
+    {
+      "id": "las_colinas_zone",
+      "name": "Belltown / Queen Anne Hotels",
+      "kind": "hotel_cluster",
+      "node_id": "las_colinas",
+      "center": [
+        -122.3563,
+        47.6232
+      ],
+      "radius_m": 780,
+      "focus_color": "#0EA5E9"
+    },
+    {
+      "id": "downtown_zone",
+      "name": "Downtown Seattle",
+      "kind": "hotel_cluster",
+      "node_id": "downtown_dallas",
+      "center": [
+        -122.3321,
+        47.6062
+      ],
+      "radius_m": 950,
+      "focus_color": "#14B8A6"
+    },
+    {
+      "id": "uptown_zone",
+      "name": "Belltown",
+      "kind": "bar_cluster",
+      "node_id": "uptown",
+      "center": [
+        -122.346,
+        47.6155
+      ],
+      "radius_m": 700,
+      "focus_color": "#8B5CF6"
+    },
+    {
+      "id": "deep_ellum_zone",
+      "name": "Capitol Hill",
+      "kind": "bar_cluster",
+      "node_id": "deep_ellum",
+      "center": [
+        -122.3128,
+        47.6206
+      ],
+      "radius_m": 650,
+      "focus_color": "#EF4444"
+    },
+    {
+      "id": "airport_zone",
+      "name": "Seattle-Tacoma International Airport",
+      "kind": "transport",
+      "node_id": "dfw_airport",
+      "center": [
+        -122.3088,
+        47.4502
+      ],
+      "radius_m": 1100,
+      "focus_color": "#3B82F6"
+    }
+  ],
+  "provenance": {
+    "seed_graph": "auto-generated host-city road simulation graph (legacy node IDs preserved)",
+    "businesses": "to be enriched via Google Places + Hunter pipeline",
+    "weather": "baseline match weather profile with city-local kickoff timing",
+    "places_enrichment": "live Google Places overlay",
+    "llm_recommendations": "heuristic by default, optionally upgraded through Anthropic"
+  }
+}
