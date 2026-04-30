@@ -72,7 +72,8 @@
       "Bash(python -c \"import ast; ast.parse\\(open\\('scripts/generate_city_base.py'\\).read\\(\\)\\); print\\('OK'\\)\")",
       "Bash(python scripts/generate_city_base.py --all)",
       "Bash(python -u scripts/enrich_businesses.py --city monterrey --hunter-fill)",
-      "Bash(python -u scripts/enrich_businesses.py --city monterrey --hunter-verify)"
+      "Bash(python -u scripts/enrich_businesses.py --city monterrey --hunter-verify)",
+      "Bash(python -c \"import openpyxl; print\\('openpyxl version:', openpyxl.__version__\\)\")"
     ]
   }
 }
